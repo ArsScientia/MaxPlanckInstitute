@@ -18,7 +18,10 @@
    height="324.39999"
    viewBox="0 0 286.95999 324.39999"
    sodipodi:docname="TECOgrafica.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"><metadata
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:export-filename="C:\Users\Hogar\Documents\GitHub\MaxPlanckInstitute\TECO\grafica TECO.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"><metadata
      id="metadata821"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
@@ -1560,9 +1563,9 @@
      inkscape:window-height="1017"
      id="namedview817"
      showgrid="false"
-     inkscape:zoom="1.3332306"
-     inkscape:cx="118.0979"
-     inkscape:cy="184.48844"
+     inkscape:zoom="15.083782"
+     inkscape:cx="61.652973"
+     inkscape:cy="106.15855"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -1715,6 +1718,7 @@
 
 
 
+
 <path
    style="fill:none;fill-rule:evenodd;stroke:#d40000;stroke-width:1.31699991;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1735-50-0-7-7)"
    d="m 108.40525,210.59391 c 0.0591,-6.12151 2.89568,-8.75947 7.19354,-9.81276"
@@ -1813,6 +1817,7 @@
 
 
 
+
 <g
    transform="matrix(-0.00106572,-0.15750371,0.16284936,-0.00280667,105.97799,106.98929)"
    id="g3432-8-5-0-9-2-4-0-3-8"
@@ -1823,7 +1828,7 @@
      d="M 240.835,14.73576 V 21.0451 L 261.11171,9.4915044 240.835,0 V 6.309333 H 0 v 8.426427 z"
      sodipodi:nodetypes="cccccccc" /></g><path
    style="fill:none;fill-rule:evenodd;stroke:#d40000;stroke-width:1.31699991;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker1735-8)"
-   d="m 40.701351,89.330614 c -0.06478,-5.897659 -3.169323,-8.439207 -7.873428,-9.453977"
+   d="M 41.944408,89.231169 C 41.879628,83.33351 38.775085,80.791962 34.07098,79.777192"
    id="path1729-9"
    inkscape:connector-curvature="0"
    sodipodi:nodetypes="cc" /><path
@@ -1866,6 +1871,7 @@
 
 
 
+
 <path
    d="m 167.30911,175.75543 -1.34924,0.001 2.01957,-2.46999 2.03581,2.4649 -1.34934,0.001 0.0641,6.52351 -1.35683,0.001 z"
    style="fill:#264468;fill-opacity:1;stroke:none;stroke-width:1.01304638;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -1894,6 +1900,7 @@
      y="-150.65796"
      style="font-size:7.56625891px;stroke-width:0.74999988px">Fine roots</tspan></text>
 
+
 <path
    sodipodi:nodetypes="ccccc"
    inkscape:connector-curvature="0"
@@ -1911,6 +1918,7 @@
      x="100.85565"
      y="-150.64456"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.56625891px;font-family:'Javanese Text';-inkscape-font-specification:'Javanese Text';stroke-width:0.74999994px">Woody</tspan></text>
+
 
 <path
    d="m 47.873118,30.970931 -1.349254,-0.0011 2.019581,2.753206 2.035801,-2.747507 -1.349322,-0.0011 0.06408,-7.271424 -1.35681,-0.0011 z"
@@ -1948,6 +1956,7 @@
      y="-92.519943"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.56625843px;font-family:'Javanese Text';-inkscape-font-specification:'Javanese Text';stroke-width:0.75px"
      id="tspan2348">    litter</tspan></text>
+
 <g
    transform="matrix(0,-0.08453402,-0.21060749,0,44.61775,89.553386)"
    id="g3432-8-5-0-9-2-43-5"
@@ -1995,6 +2004,7 @@
      y="-41.174099"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.56625843px;font-family:'Javanese Text';-inkscape-font-specification:'Javanese Text';stroke-width:0.75px"
      id="tspan9413">SOM</tspan></text>
+
 <text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.56625843px;line-height:1.25;font-family:'Javanese Text';-inkscape-font-specification:'Javanese Text';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2012,6 +2022,7 @@
      y="-40.879269"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.56625843px;font-family:'Javanese Text';-inkscape-font-specification:'Javanese Text';stroke-width:0.75px"
      id="tspan9411">  SOM</tspan></text>
+
 <g
    transform="matrix(0.2671459,0,0,-0.29795098,146.17391,119.75556)"
    id="g3238-8-7-7-6"
@@ -2036,6 +2047,7 @@
      y="-96.543404"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.56625795px;font-family:'Javanese Text';-inkscape-font-specification:'Javanese Text';stroke-width:0.74999994px"
      id="tspan9541">    litter</tspan></text>
+
 <path
    sodipodi:nodetypes="ccccc"
    inkscape:connector-curvature="0"
