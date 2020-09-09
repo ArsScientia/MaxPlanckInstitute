@@ -186,9 +186,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="475.24147"
-     inkscape:cy="240.08537"
+     inkscape:zoom="0.7"
+     inkscape:cx="301.42496"
+     inkscape:cy="258.35953"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -276,7 +276,7 @@
          style="stroke-width:0.26458332px">0</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.40519762px;line-height:1.25;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.40519762px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        x="77.300629"
        y="271.48724"
        id="text5124"
@@ -285,7 +285,7 @@
          id="tspan5122"
          x="77.300629"
          y="271.48724"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.40519762px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';stroke-width:0.26458332px"> Max</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.40519762px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';stroke-width:0.26458332px;"> Max</tspan></text>
     <g
        id="g1736"
        transform="matrix(1.1676917,0,0,1.1676959,-22.806257,102.28326)"
@@ -313,16 +313,16 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.14923143px;line-height:1.25;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="73.366844"
-       y="189.7393"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.14923143px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="79.24778"
+       y="191.34265"
        id="text6326"
        transform="scale(0.99982933,1.0001707)"><tspan
          sodipodi:role="line"
          id="tspan6324"
-         x="73.366844"
-         y="189.7393"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.14923143px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';stroke-width:0.26458332px">Temperature</tspan></text>
+         x="79.24778"
+         y="191.34265"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.14923143px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';stroke-width:0.26458332px">Temperature</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.565;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 74.387477,269.8311 2.289553,0.0276"
@@ -342,7 +342,7 @@
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#cb6a88;stroke-width:0.66500002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 59.630296,230.29731 c 1.601371,-1.26713 2.90709,5.55645 34.033705,-26.55973 43.596979,-44.98311 40.977179,-133.482428 59.101349,-57.76243 7.32059,30.58437 19.57717,47.49172 28.71094,57.56165"
+       d="m 59.630296,230.25006 c -0.717453,-0.93587 2.90709,5.6037 34.033705,-26.51248 43.597039,-44.98306 40.977179,-133.482428 59.101349,-57.76243 7.32059,30.58437 19.57717,47.49172 28.71094,57.56165"
        id="path1947"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cssc" />
@@ -481,7 +481,7 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.14923143px;line-height:1.25;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0px;word-spacing:0px;fill:#d40000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.14923143px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';letter-spacing:0px;word-spacing:0px;fill:#d40000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        x="128.31723"
        y="113.96435"
        id="text2199"
@@ -490,6 +490,6 @@
          id="tspan2197"
          x="128.31723"
          y="113.96435"
-         style="font-size:4.14923143px;fill:#d40000;stroke-width:0.26458332px">Arrhenius quation</tspan></text>
+         style="font-size:4.14923143px;fill:#d40000;stroke-width:0.26458332px;-inkscape-font-specification:'Times New Roman, ';font-family:'Times New Roman';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">Arrhenius quation</tspan></text>
   </g>
 </svg>
