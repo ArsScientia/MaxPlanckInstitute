@@ -495,8 +495,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="326.49099"
-     inkscape:cy="156.93019"
+     inkscape:cx="594.31245"
+     inkscape:cy="198.08139"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -507,63 +507,7 @@
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:snap-global="false">
-    <sodipodi:guide
-       position="52.06622,92.131697"
-       orientation="0,1"
-       id="guide1514"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="32.072343,127.48757"
-       orientation="0,1"
-       id="guide1516"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="228.29762,74.46131"
-       orientation="0,1"
-       id="guide1518"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="-68.420999,244.81889"
-       orientation="1,0"
-       id="guide1850"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="93.161559,156.164"
-       orientation="0,1"
-       id="guide2272"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="111.18413,60.670181"
-       orientation="0,1"
-       id="guide3219"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="39.288621,40.892238"
-       orientation="0,1"
-       id="guide3221"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="-102.6315,257.64783"
-       orientation="1,0"
-       id="guide3559"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="201.08333,30.994048"
-       orientation="1,0"
-       id="guide4389"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="152.32441,78.619048"
-       orientation="1,0"
-       id="guide4631"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="175.94792,10.016369"
-       orientation="1,0"
-       id="guide4735"
-       inkscape:locked="false" />
-  </sodipodi:namedview>
+     inkscape:snap-global="false" />
   <metadata
      id="metadata3566">
     <rdf:RDF>
@@ -657,10 +601,10 @@
          x="160.18913"
          y="251.32062"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.12739277px;font-family:'Bell MT';-inkscape-font-specification:'Bell MT';stroke-width:0.26458329px"
-         id="tspan2595">      Debrys </tspan></text>
+         id="tspan2595">      Debris </tspan></text>
     <path
        style="fill:#214478;fill-rule:evenodd;stroke:#214478;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2497)"
-       d="m 76.226502,168.07358 -0.02161,73.78318"
+       d="m 71.993166,168.07358 -0.02161,73.78318"
        id="path949-2-9"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
@@ -802,12 +746,6 @@
          x="119.38712"
          y="106.98641"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.26776123px;font-family:'Bell MT';-inkscape-font-specification:'Bell MT';stroke-width:0.26458332px">Atmosphere</tspan></text>
-    <path
-       style="fill:#008066;fill-opacity:1;fill-rule:evenodd;stroke:#008066;stroke-width:0.4650003;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker2505-4-6)"
-       d="M 70.442557,243.41339 70.237061,217.14841"
-       id="path2773-7-2-0"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
     <path
        style="fill:#008066;fill-opacity:1;fill-rule:evenodd;stroke:#008066;stroke-width:0.46500024;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker2505-4-6-6)"
        d="m 80.334287,144.38484 0.03073,-24.42662"
