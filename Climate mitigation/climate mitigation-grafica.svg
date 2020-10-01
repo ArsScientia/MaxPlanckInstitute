@@ -212,10 +212,10 @@
          id="stop3284" />
       <stop
          id="stop3461"
-         offset="0.72193646"
+         offset="0.53665137"
          style="stop-color:#2ca05a;stop-opacity:1" />
       <stop
-         style="stop-color:#5fd38d;stop-opacity:1"
+         style="stop-color:#00aa88;stop-opacity:1"
          offset="1"
          id="stop3286" />
     </linearGradient>
@@ -450,10 +450,10 @@
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      id="namedview3071"
-     showgrid="false"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="608.90134"
-     inkscape:cy="458.22394"
+     showgrid="true"
+     inkscape:zoom="0.5"
+     inkscape:cx="682.52922"
+     inkscape:cy="319.15471"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -482,9 +482,9 @@
      style="fill:#83c3e0;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      id="rect1362"
      width="1125.8126"
-     height="262.01907"
+     height="266.01907"
      x="1.4499917"
-     y="653.83478" />
+     y="649.83478" />
   <rect
      style="fill:#222222;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      id="rect3293-4-4-4-0-7-7"
@@ -517,7 +517,7 @@
      id="rect3293-4-4-4-0-04-2-1"
      width="273.37408"
      height="47.063324"
-     x="811.35254"
+     x="803.35254"
      y="552.15125"
      inkscape:transform-center-x="42.3367"
      inkscape:transform-center-y="50.132683" />
@@ -649,11 +649,11 @@
   <rect
      style="fill:#afe9dd;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      id="rect3293-4-4-4-0-2"
-     width="231.47523"
+     width="224.75772"
      height="47.063324"
-     x="529.13403"
+     x="535.85156"
      y="551.6698"
-     inkscape:transform-center-x="35.847961"
+     inkscape:transform-center-x="34.807622"
      inkscape:transform-center-y="50.132649" />
   <text
      xml:space="preserve"
@@ -706,13 +706,13 @@
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.17119598px;line-height:1.25;font-family:'Bookman Old Style';-inkscape-font-specification:'Bookman Old Style';letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     x="816.69415"
+     x="808.69855"
      y="583.15051"
      id="text3265"
      transform="scale(1.0005428,0.99945749)"><tspan
        sodipodi:role="line"
        id="tspan3263"
-       x="816.69415"
+       x="808.69855"
        y="583.15051"
        style="fill:#333333;stroke-width:1px">Fossil fuel savings</tspan></text>
   <text
@@ -809,13 +809,13 @@
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:1.25;font-family:'Bookman Old Style';-inkscape-font-specification:'Bookman Old Style';letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     x="770.72607"
+     x="766.72827"
      y="591.99744"
      id="text3488"
      transform="scale(1.0005428,0.99945749)"><tspan
        sodipodi:role="line"
        id="tspan3486"
-       x="770.72607"
+       x="766.72827"
        y="591.99744"
        style="font-size:48px;fill:#333333;stroke-width:1px">+</tspan></text>
   <path
@@ -1171,15 +1171,15 @@
      inkscape:connector-curvature="0" />
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.41275597px;line-height:1.25;font-family:'Bookman Old Style';-inkscape-font-specification:'Bookman Old Style';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     x="600.23163"
-     y="881.21051"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.91242981px;line-height:1.25;font-family:'Bookman Old Style';-inkscape-font-specification:'Bookman Old Style';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="627.0556"
+     y="855.09631"
      id="text3425-0"
-     transform="scale(1.0246732,0.9759209)"><tspan
+     transform="scale(0.98072016,1.0196589)"><tspan
        sodipodi:role="line"
        id="tspan3423-4"
-       x="600.23163"
-       y="881.21051"
+       x="627.0556"
+       y="855.09631"
        style="stroke-width:0.99999994px">2</tspan></text>
   <image
      y="1015.2164"
