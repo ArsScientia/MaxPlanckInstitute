@@ -486,6 +486,36 @@
          style="fill:#214478;fill-opacity:1;fill-rule:evenodd;stroke:#214478;stroke-width:1.00000003pt;stroke-opacity:1"
          transform="matrix(-0.2,0,0,-0.2,-1.2,0)" />
     </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker2505-4-6-1-6"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path2503-5-18-0-9"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#008066;fill-opacity:1;fill-rule:evenodd;stroke:#008066;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker2481-0"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path2479-5"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#008091;fill-opacity:1;fill-rule:evenodd;stroke:#008091;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)" />
+    </marker>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -494,9 +524,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="594.31245"
-     inkscape:cy="198.08139"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="591.57728"
+     inkscape:cy="172.67438"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -507,7 +537,26 @@
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:snap-global="false" />
+     inkscape:snap-global="false">
+    <sodipodi:guide
+       position="106.94122,107.97689"
+       orientation="1,0"
+       id="guide2313"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="50.647577,140.7174"
+       orientation="0,1"
+       id="guide3158"
+       inkscape:locked="false" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid3172" />
+    <sodipodi:guide
+       position="-48.108515,11.759859"
+       orientation="1,0"
+       id="guide3200"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
   <metadata
      id="metadata3566">
     <rdf:RDF>
@@ -525,265 +574,6 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-87)">
-    <path
-       style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:0.26458338;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 1.8456016,88.12728 1.4587203,297.41541 H 295.23358 V 88.353888 Z"
-       id="path862-2"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccc" />
-    <rect
-       style="fill:#71b16f;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect1512"
-       width="47.217598"
-       height="23.472"
-       x="50.06546"
-       y="144.79495"
-       ry="2.8501718" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.42299557px;line-height:1.25;font-family:'Bell MT';-inkscape-font-specification:'Bell MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="66.940048"
-       y="111.31818"
-       id="text5904"
-       transform="scale(0.95354655,1.0487165)"><tspan
-         sodipodi:role="line"
-         id="tspan5902"
-         x="66.940048"
-         y="111.31818"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Bell MT';-inkscape-font-specification:'Bell MT';fill:#000000;stroke-width:0.26458332px">GPP</tspan></text>
-    <path
-       style="fill:#214478;fill-opacity:1;fill-rule:evenodd;stroke:#214478;stroke-width:0.46500018;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker2505)"
-       d="m 95.480771,255.77756 55.867089,-0.22698"
-       id="path2773-7"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
-    <rect
-       style="fill:#bc9d82;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect1512-4-7-9"
-       width="47.217598"
-       height="23.472"
-       x="48.350632"
-       y="243.87675"
-       ry="2.8501718" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.12739277px;line-height:1.25;font-family:'Bell MT';-inkscape-font-specification:'Bell MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458329px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="64.57827"
-       y="246.21982"
-       id="text923-18-3"
-       transform="scale(0.95346999,1.0488007)"><tspan
-         sodipodi:role="line"
-         id="tspan921-4-6"
-         x="64.57827"
-         y="246.21982"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.12739277px;font-family:'Bell MT';-inkscape-font-specification:'Bell MT';stroke-width:0.26458329px">Wood</tspan></text>
-    <rect
-       style="fill:#c8b7be;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect1512-4-7-7"
-       width="47.217598"
-       height="23.472"
-       x="152.51033"
-       y="244.06105"
-       ry="2.8501718" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.12739277px;line-height:1.25;font-family:'Bell MT';-inkscape-font-specification:'Bell MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458329px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="160.18913"
-       y="241.16138"
-       id="text937-0-5"
-       transform="scale(0.95346999,1.0488007)"><tspan
-         sodipodi:role="line"
-         x="160.18913"
-         y="241.16138"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.12739277px;font-family:'Bell MT';-inkscape-font-specification:'Bell MT';stroke-width:0.26458329px"
-         id="tspan939-5-9">Coarse Woody</tspan><tspan
-         sodipodi:role="line"
-         x="160.18913"
-         y="251.32062"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.12739277px;font-family:'Bell MT';-inkscape-font-specification:'Bell MT';stroke-width:0.26458329px"
-         id="tspan2595">      Debris </tspan></text>
-    <path
-       style="fill:#214478;fill-rule:evenodd;stroke:#214478;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2497)"
-       d="m 71.993166,168.07358 -0.02161,73.78318"
-       id="path949-2-9"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="fill:#214478;fill-rule:evenodd;stroke:#214478;stroke-width:0.46500012;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2529)"
-       d="m 200.11065,256.25531 31.56267,-30.00015"
-       id="path2777-5"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#008091;stroke-width:0.46500003;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2489)"
-       d="m 97.442756,156.33703 h 8.422584 v 33.16447"
-       id="path2769-6"
-       inkscape:connector-curvature="0" />
-    <rect
-       style="fill:#bea568;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect1512-4"
-       width="47.217598"
-       height="23.472"
-       x="18.396101"
-       y="191.12195"
-       ry="2.8501718" />
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#008091;stroke-width:0.46499994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2481)"
-       d="m 49.9458,156.35028 h -4.882916 v 33.18408"
-       id="path2769-6-6"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:#782167;fill-rule:evenodd;stroke:#782167;stroke-width:0.46500003;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2513)"
-       d="m 130.75728,202.5029 20.56399,-0.0468"
-       id="path2773-9-4"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="fill:#782167;fill-rule:evenodd;stroke:#782167;stroke-width:0.46500018;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2521)"
-       d="m 200.23138,202.773 31.32564,17.84069"
-       id="path2775-8"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.12739277px;line-height:1.25;font-family:'Bell MT';-inkscape-font-specification:'Bell MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458329px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="22.010941"
-       y="195.15996"
-       id="text931-4-6"
-       transform="scale(0.95346999,1.0488007)"><tspan
-         sodipodi:role="line"
-         x="22.010941"
-         y="195.15996"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.12739277px;font-family:'Bell MT';-inkscape-font-specification:'Bell MT';stroke-width:0.26458329px"
-         id="tspan933-5-8">Coarse Roots</tspan></text>
-    <rect
-       style="fill:#bea579;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect1512-4-7"
-       width="47.217598"
-       height="23.472"
-       x="83.342247"
-       y="191.40205"
-       ry="2.8501718" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.12739277px;line-height:1.25;font-family:'Bell MT';-inkscape-font-specification:'Bell MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458329px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="91.953003"
-       y="194.91115"
-       id="text927-6"
-       transform="scale(0.95346999,1.0488007)"><tspan
-         sodipodi:role="line"
-         x="91.953003"
-         y="194.91115"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.12739277px;font-family:'Bell MT';-inkscape-font-specification:'Bell MT';stroke-width:0.26458329px"
-         id="tspan3927-69"> Fine Roots </tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.12739277px;line-height:1.25;font-family:'Bell MT';-inkscape-font-specification:'Bell MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458329px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="65.781853"
-       y="150.55022"
-       id="text919-2"
-       transform="scale(0.95346999,1.0488007)"><tspan
-         sodipodi:role="line"
-         id="tspan917-0"
-         x="65.781853"
-         y="150.55022"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.12739277px;font-family:'Bell MT';-inkscape-font-specification:'Bell MT';stroke-width:0.26458329px">Foliage</tspan></text>
-    <rect
-       style="fill:#decd87;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect1512-4-7-0"
-       width="47.217598"
-       height="23.472"
-       x="152.52518"
-       y="191.16183"
-       ry="2.8501718" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.12739277px;line-height:1.25;font-family:'Bell MT';-inkscape-font-specification:'Bell MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458329px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="167.45943"
-       y="195.3508"
-       id="text943-8-9"
-       transform="scale(0.95346999,1.0488007)"><tspan
-         sodipodi:role="line"
-         x="167.45943"
-         y="195.3508"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.12739277px;font-family:'Bell MT';-inkscape-font-specification:'Bell MT';stroke-width:0.26458329px"
-         id="tspan7341-4-2">Fine Litter</tspan></text>
-    <rect
-       style="fill:#93a7ac;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect1512-4-7-2"
-       width="47.217598"
-       height="23.472"
-       x="234.89014"
-       y="210.91061"
-       ry="2.8501718" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.12739277px;line-height:1.25;font-family:'Bell MT';-inkscape-font-specification:'Bell MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458329px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="251.43657"
-       y="214.38782"
-       id="text947-4-7"
-       transform="scale(0.95346999,1.0488007)"><tspan
-         sodipodi:role="line"
-         x="251.43657"
-         y="214.38782"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.12739277px;font-family:'Bell MT';-inkscape-font-specification:'Bell MT';stroke-width:0.26458329px"
-         id="tspan7343-26-6">Soil Carbon</tspan></text>
-    <path
-       style="fill:#214478;fill-rule:evenodd;stroke:#214478;stroke-width:0.46500003;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Send)"
-       d="m 69.937999,118.60021 -0.0015,24.75781"
-       id="path949-2-9-4"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.26776123px;line-height:1.25;font-family:'Bell MT';-inkscape-font-specification:'Bell MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="119.38712"
-       y="106.98641"
-       id="text1514"
-       transform="scale(0.953484,1.0487853)"><tspan
-         sodipodi:role="line"
-         id="tspan1512"
-         x="119.38712"
-         y="106.98641"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.26776123px;font-family:'Bell MT';-inkscape-font-specification:'Bell MT';stroke-width:0.26458332px">Atmosphere</tspan></text>
-    <path
-       style="fill:#008066;fill-opacity:1;fill-rule:evenodd;stroke:#008066;stroke-width:0.46500024;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker2505-4-6-6)"
-       d="m 80.334287,144.38484 0.03073,-24.42662"
-       id="path2773-7-2-0-9"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="fill:#008066;fill-opacity:1;fill-rule:evenodd;stroke:#008066;stroke-width:0.46500024;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker2505-4-6-68)"
-       d="m 176.02301,243.85688 0.003,-26.87673"
-       id="path2773-7-2-0-4"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="fill:#008066;fill-opacity:1;fill-rule:evenodd;stroke:#008066;stroke-width:0.46500024;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker2505-4-6-7)"
-       d="m 176.25647,190.82724 -0.0385,-20.255"
-       id="path2773-7-2-0-2"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="fill:#008066;fill-opacity:1;fill-rule:evenodd;stroke:#008066;stroke-width:0.46500024;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker2505-4-6-8)"
-       d="m 258.49735,210.12582 -0.0874,-20.27167"
-       id="path2773-7-2-0-5"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc"
-       inkscape:transform-center-x="89.209961"
-       inkscape:transform-center-y="-27.029698" />
-    <path
-       style="fill:#008066;fill-opacity:1;fill-rule:evenodd;stroke:#008066;stroke-width:0.46500024;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker2505-4-6-1)"
-       d="m 36.96594,190.49102 -0.02175,-20.22153"
-       id="path2773-7-2-0-46"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="fill:#008066;fill-opacity:1;fill-rule:evenodd;stroke:#008066;stroke-width:0.46500024;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker2505-4-6-5)"
-       d="m 112.25525,190.52971 -0.0165,-20.22446"
-       id="path2773-7-2-0-6"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
     <rect
        style="opacity:0;fill:#554400;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.79374999, 0.79374999000000002;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="rect1510"
@@ -791,5 +581,279 @@
        height="52.384827"
        x="310.03265"
        y="201.3175" />
+    <g
+       id="g5842">
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path862-2"
+         d="M 0.52242331,87.179555 0.13131028,297.50712 H 297.11896 V 87.407289 Z"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:0.26458338;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2769-6-6-1"
+         d="m 97.162175,156.39463 h 4.882915 v 33.18408"
+         style="fill:none;fill-rule:evenodd;stroke:#008091;stroke-width:0.46499994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2481-0)" />
+      <rect
+         ry="2.8501718"
+         y="144.79495"
+         x="50.06546"
+         height="23.472"
+         width="47.217598"
+         id="rect1512"
+         style="fill:#71b16f;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         transform="scale(0.95354655,1.0487165)"
+         id="text5904"
+         y="111.31818"
+         x="66.940048"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.42299557px;line-height:1.25;font-family:'Bell MT';-inkscape-font-specification:'Bell MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Bell MT';-inkscape-font-specification:'Bell MT';fill:#000000;stroke-width:0.26458332px"
+           y="111.31818"
+           x="66.940048"
+           id="tspan5902"
+           sodipodi:role="line">GPP</tspan></text>
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path2773-7"
+         d="m 91.240188,255.77756 60.077322,-0.22698"
+         style="fill:#214478;fill-opacity:1;fill-rule:evenodd;stroke:#214478;stroke-width:0.46500018;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker2505)" />
+      <rect
+         ry="2.8501718"
+         y="243.87675"
+         x="43.588127"
+         height="23.472"
+         width="47.217598"
+         id="rect1512-4-7-9"
+         style="fill:#bc9d82;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         transform="scale(0.95346999,1.0488007)"
+         id="text923-18-3"
+         y="246.21982"
+         x="59.583366"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.12739277px;line-height:1.25;font-family:'Bell MT';-inkscape-font-specification:'Bell MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458329px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.12739277px;font-family:'Bell MT';-inkscape-font-specification:'Bell MT';stroke-width:0.26458329px"
+           y="246.21982"
+           x="59.583366"
+           id="tspan921-4-6"
+           sodipodi:role="line">Wood</tspan></text>
+      <rect
+         ry="2.8501718"
+         y="244.06105"
+         x="152.30988"
+         height="23.472"
+         width="47.418053"
+         id="rect1512-4-7-7"
+         style="fill:#c8b7be;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         transform="scale(0.95346999,1.0488007)"
+         id="text937-0-5"
+         y="241.16138"
+         x="160.18913"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.12739277px;line-height:1.25;font-family:'Bell MT';-inkscape-font-specification:'Bell MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458329px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           id="tspan939-5-9"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.12739277px;font-family:'Bell MT';-inkscape-font-specification:'Bell MT';stroke-width:0.26458329px"
+           y="241.16138"
+           x="160.18913"
+           sodipodi:role="line">Coarse Woody</tspan><tspan
+           id="tspan2595"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.12739277px;font-family:'Bell MT';-inkscape-font-specification:'Bell MT';stroke-width:0.26458329px"
+           y="251.32062"
+           x="160.18913"
+           sodipodi:role="line">      Debris </tspan></text>
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path949-2-9"
+         d="m 71.993166,168.07358 -0.02161,73.78318"
+         style="fill:#214478;fill-rule:evenodd;stroke:#214478;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2497)" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path2777-5"
+         d="m 200.11065,256.25531 31.56267,-30.00015"
+         style="fill:#214478;fill-rule:evenodd;stroke:#214478;stroke-width:0.46500012;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2529)" />
+      <rect
+         ry="2.8501718"
+         y="191.12195"
+         x="16.279432"
+         height="23.472"
+         width="47.217598"
+         id="rect1512-4"
+         style="fill:#bea568;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2769-6-6"
+         d="m 49.9458,156.35028 h -4.882916 v 33.18408"
+         style="fill:none;fill-rule:evenodd;stroke:#008091;stroke-width:0.46499994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2481)" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path2773-9-4"
+         d="m 130.75728,202.5029 20.56399,-0.0468"
+         style="fill:#782167;fill-rule:evenodd;stroke:#782167;stroke-width:0.46500003;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2513)" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path2775-8"
+         d="m 200.23138,202.773 31.32564,17.84069"
+         style="fill:#782167;fill-rule:evenodd;stroke:#782167;stroke-width:0.46500018;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2521)" />
+      <text
+         transform="scale(0.95346999,1.0488007)"
+         id="text931-4-6"
+         y="195.15996"
+         x="19.790977"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.12739277px;line-height:1.25;font-family:'Bell MT';-inkscape-font-specification:'Bell MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458329px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           id="tspan933-5-8"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.12739277px;font-family:'Bell MT';-inkscape-font-specification:'Bell MT';stroke-width:0.26458329px"
+           y="195.15996"
+           x="19.790977"
+           sodipodi:role="line">Coarse Roots</tspan></text>
+      <rect
+         ry="2.8501718"
+         y="191.40205"
+         x="83.342247"
+         height="23.472"
+         width="47.217598"
+         id="rect1512-4-7"
+         style="fill:#bea579;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         transform="scale(0.95346999,1.0488007)"
+         id="text927-6"
+         y="194.91115"
+         x="91.953003"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.12739277px;line-height:1.25;font-family:'Bell MT';-inkscape-font-specification:'Bell MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458329px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           id="tspan3927-69"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.12739277px;font-family:'Bell MT';-inkscape-font-specification:'Bell MT';stroke-width:0.26458329px"
+           y="194.91115"
+           x="91.953003"
+           sodipodi:role="line"> Fine Roots </tspan></text>
+      <text
+         transform="scale(0.95346999,1.0488007)"
+         id="text919-2"
+         y="150.55022"
+         x="65.781853"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.12739277px;line-height:1.25;font-family:'Bell MT';-inkscape-font-specification:'Bell MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458329px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.12739277px;font-family:'Bell MT';-inkscape-font-specification:'Bell MT';stroke-width:0.26458329px"
+           y="150.55022"
+           x="65.781853"
+           id="tspan917-0"
+           sodipodi:role="line">Foliage</tspan></text>
+      <rect
+         ry="2.8501718"
+         y="191.16183"
+         x="152.52518"
+         height="23.472"
+         width="47.217598"
+         id="rect1512-4-7-0"
+         style="fill:#decd87;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         transform="scale(0.95346999,1.0488007)"
+         id="text943-8-9"
+         y="195.3508"
+         x="167.45943"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.12739277px;line-height:1.25;font-family:'Bell MT';-inkscape-font-specification:'Bell MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458329px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           id="tspan7341-4-2"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.12739277px;font-family:'Bell MT';-inkscape-font-specification:'Bell MT';stroke-width:0.26458329px"
+           y="195.3508"
+           x="167.45943"
+           sodipodi:role="line">Fine Litter</tspan></text>
+      <rect
+         ry="2.8501718"
+         y="210.91061"
+         x="234.89014"
+         height="23.472"
+         width="47.217598"
+         id="rect1512-4-7-2"
+         style="fill:#93a7ac;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         transform="scale(0.95346999,1.0488007)"
+         id="text947-4-7"
+         y="214.38782"
+         x="251.43657"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.12739277px;line-height:1.25;font-family:'Bell MT';-inkscape-font-specification:'Bell MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458329px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           id="tspan7343-26-6"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.12739277px;font-family:'Bell MT';-inkscape-font-specification:'Bell MT';stroke-width:0.26458329px"
+           y="214.38782"
+           x="251.43657"
+           sodipodi:role="line">Soil Carbon</tspan></text>
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path949-2-9-4"
+         d="m 69.890752,118.64746 -0.0015,24.75781"
+         style="fill:#214478;fill-rule:evenodd;stroke:#214478;stroke-width:0.46500003;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Send)" />
+      <text
+         transform="scale(0.953484,1.0487853)"
+         id="text1514"
+         y="106.98641"
+         x="119.38712"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.26776123px;line-height:1.25;font-family:'Bell MT';-inkscape-font-specification:'Bell MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.26776123px;font-family:'Bell MT';-inkscape-font-specification:'Bell MT';stroke-width:0.26458332px"
+           y="106.98641"
+           x="119.38712"
+           id="tspan1512"
+           sodipodi:role="line">Atmosphere</tspan></text>
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path2773-7-2-0-9"
+         d="m 78.817657,144.38484 0.03073,-24.42662"
+         style="fill:#008066;fill-opacity:1;fill-rule:evenodd;stroke:#008066;stroke-width:0.46500024;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker2505-4-6-6)" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path2773-7-2-0-4"
+         d="m 176.02301,243.85688 0.003,-26.87673"
+         style="fill:#008066;fill-opacity:1;fill-rule:evenodd;stroke:#008066;stroke-width:0.46500024;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker2505-4-6-68)" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path2773-7-2-0-2"
+         d="m 176.25647,190.82724 -0.0385,-20.255"
+         style="fill:#008066;fill-opacity:1;fill-rule:evenodd;stroke:#008066;stroke-width:0.46500024;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker2505-4-6-7)" />
+      <path
+         inkscape:transform-center-y="-27.029698"
+         inkscape:transform-center-x="89.209961"
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path2773-7-2-0-5"
+         d="m 258.49735,210.12582 -0.0874,-20.27167"
+         style="fill:#008066;fill-opacity:1;fill-rule:evenodd;stroke:#008066;stroke-width:0.46500024;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker2505-4-6-8)" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path2773-7-2-0-46"
+         d="m 35.907606,190.49102 -0.02175,-20.22153"
+         style="fill:#008066;fill-opacity:1;fill-rule:evenodd;stroke:#008066;stroke-width:0.46500024;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker2505-4-6-1)" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path2773-7-2-0-6"
+         d="m 111.19691,190.52971 -0.0165,-20.22446"
+         style="fill:#008066;fill-opacity:1;fill-rule:evenodd;stroke:#008066;stroke-width:0.46500024;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker2505-4-6-5)" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path2773-7-2-0-46-3"
+         d="m 62.864094,242.97106 -0.02175,-20.22153"
+         style="fill:#008066;fill-opacity:1;fill-rule:evenodd;stroke:#008066;stroke-width:0.46500024;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker2505-4-6-1-6)" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path3198"
+         d="m 70.164779,140.14147 h 8.69357"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
   </g>
 </svg>
