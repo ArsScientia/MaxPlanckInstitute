@@ -298,6 +298,30 @@
          id="path1492-5-1"
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
          d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" /></marker><marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker2593-2-7-5-2"
+       style="overflow:visible"
+       inkscape:isstock="true"><path
+         inkscape:connector-curvature="0"
+         id="path2591-9-6-2-2"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" /></marker><marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker2593-2-7-5-2-4"
+       style="overflow:visible"
+       inkscape:isstock="true"><path
+         inkscape:connector-curvature="0"
+         id="path2591-9-6-2-2-5"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
          transform="scale(-0.6)" /></marker></defs><sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -312,8 +336,8 @@
      id="namedview4633"
      showgrid="false"
      inkscape:zoom="0.5807791"
-     inkscape:cx="637.68995"
-     inkscape:cy="351.09124"
+     inkscape:cx="150.17534"
+     inkscape:cy="372.6207"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -323,16 +347,23 @@
      inkscape:groupmode="layer"
      inkscape:label="TerrestrialSulfurCycle"
      transform="matrix(1.3333333,0,0,-1.3333333,0,574.66667)"><rect
-   style="fill:#d2c1ad;fill-rule:evenodd;stroke:#000000;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+   style="fill:#d8e4e4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+   id="rect5323-2"
+   width="592.58838"
+   height="227.60376"
+   x="0.149922"
+   y="-430.99435"
+   transform="scale(1,-1)" /><rect
+   style="fill:#d2c1ad;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
    id="rect5323"
-   width="591.44696"
-   height="204.03629"
-   x="1.2913688"
-   y="-205.32762"
+   width="592.55988"
+   height="205.29912"
+   x="0.17848475"
+   y="-205.29909"
    transform="scale(1,-1)" /><g
    id="g4641" /><g
    id="g4643"
-   transform="translate(614.54029,5.4788139)"><g
+   transform="translate(-652.29252,-2.2694021)"><g
      id="g4645"
      transform="scale(593,431)"><image
        width="1"
@@ -343,7 +374,7 @@
        mask="url(#mask4647)"
        id="image4651" /></g></g><text
    xml:space="preserve"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.0000009px;line-height:1.25;font-family:'Californian FB';-inkscape-font-specification:'Californian FB';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:1.25;font-family:'Californian FB';-inkscape-font-specification:'Californian FB';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
    x="31.046612"
    y="-392.64832"
    id="text5198"
@@ -352,55 +383,14 @@
      id="tspan5196"
      x="31.046612"
      y="-392.64832"
-     style="stroke-width:0.75px;font-size:36.0000009px;">The Sulfur cycle</tspan></text>
+     style="font-size:36px;stroke-width:0.75px">The Sulfur Cycle</tspan></text>
 
-<rect
-   style="fill:#0000ff;fill-rule:evenodd;stroke:#000000;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-   id="rect5200"
-   width="77.616531"
-   height="40.634537"
-   x="29.220366"
-   y="-364.34109"
-   transform="scale(1,-1)" /><rect
-   style="fill:#0000ff;fill-rule:evenodd;stroke:#000000;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-   id="rect5200-4"
-   width="84.008484"
-   height="45.656784"
-   x="26.48093"
-   y="-275.76697"
-   transform="scale(1,-1)" /><rect
-   style="fill:#0000ff;fill-rule:evenodd;stroke:#000000;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-   id="rect5200-7"
-   width="73.031853"
-   height="40.814152"
-   x="142.88278"
-   y="-283.29782"
-   transform="scale(1,-1)" /><rect
-   style="fill:#0000ff;fill-rule:evenodd;stroke:#000000;stroke-width:0.18425196;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-   id="rect5200-9"
-   width="76.932724"
-   height="41.782677"
-   x="416.75858"
-   y="-291.12244"
-   transform="scale(1,-1)" /><rect
-   style="fill:#0000ff;fill-rule:evenodd;stroke:#000000;stroke-width:0.18425197;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
-   id="rect5200-90"
-   width="84.008484"
-   height="20.937227"
-   x="407.47681"
-   y="-419.33179"
-   transform="scale(1,-1)" /><rect
-   style="fill:#0000ff;fill-rule:evenodd;stroke:#000000;stroke-width:0.18425196;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-   id="rect5200-75"
-   width="67.220688"
-   height="17.340075"
-   x="297.68222"
-   y="-27.550726"
-   transform="scale(1,-1)" /><ellipse
+
+<ellipse
    style="fill:#2b8a57;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.75000006px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
    id="path5241"
-   cx="182.53076"
-   cy="-150.3851"
+   cx="196.03076"
+   cy="-159.3851"
    transform="scale(1,-1)"
    rx="50.363384"
    ry="29.701485" /><ellipse
@@ -438,39 +428,9 @@
    cy="-409.8988"
    rx="39.313446"
    ry="15.496428"
-   transform="scale(1,-1)" /><path
-   style="fill:#e05e00;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.18425197;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
-   d="m 475.64785,196.42137 h 5.87615 v 6.62342 h 56.58548 v -6.1328 h 5.65848 c 0,0 1.0697,-12.92375 0,-13.24684 -1.06971,-0.32305 -5.22326,0 -5.22326,0 v -6.62341 h -58.10887 v 6.1328 h -4.78791 z"
-   id="path5282"
-   inkscape:connector-curvature="0"
-   sodipodi:nodetypes="ccccccccccccc" /><path
-   style="fill:#e05e00;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.18425196;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-   d="m 411.43256,23.84868 h 6.69784 v 5.613032 h 64.49795 v -5.197255 h 6.4497 c 0,0 1.21927,-10.952269 0,-11.226065 -1.21927,-0.273783 -5.95363,0 -5.95363,0 V 7.4253587 h -66.23437 v 5.1972553 h -5.45741 z"
-   id="path5282-2"
-   inkscape:connector-curvature="0"
-   sodipodi:nodetypes="ccccccccccccc" /><path
-   style="fill:#e05e00;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.18425197;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
-   d="m 508.8497,43.178666 h 6.15571 v 7.957393 h 59.27762 v -7.367961 h 5.92769 c 0,0 1.12059,-15.526635 0,-15.914785 -1.12061,-0.388132 -5.47177,0 -5.47177,0 v -7.957392 h -60.87348 v 7.36796 h -5.0157 z"
-   id="path5282-0"
-   inkscape:connector-curvature="0"
-   sodipodi:nodetypes="ccccccccccccc" /><path
-   style="fill:#e05e00;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.18425195;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-   d="m 406.95308,346.38737 h 9.52589 v 5.59188 h 91.73139 v -5.17766 h 9.17302 v -11.18374 h -8.46748 v -5.59188 h -94.20098 v 5.17766 h -7.76174 z"
-   id="path5282-6"
-   inkscape:connector-curvature="0"
-   sodipodi:nodetypes="ccccccccccccc" /><path
-   style="fill:#e05e00;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.18425196;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-   d="m 285.61587,329.51456 h 3.95323 v 6.44326 h 38.0686 v -5.96598 h 3.8068 c 0,0 0.71966,-12.57226 0,-12.88656 -0.71965,-0.31427 -3.51401,0 -3.51401,0 v -6.44326 h -39.09345 v 5.96599 h -3.22113 z"
-   id="path5282-03"
-   inkscape:connector-curvature="0"
-   sodipodi:nodetypes="ccccccccccccc" /><path
-   style="fill:#e05e00;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.18425196;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-   d="m 255.17694,170.90534 h 5.53293 v 10.85481 h 53.28041 V 171.7094 h 5.32799 c 0,0 1.00721,-21.18013 0,-21.70962 -1.00724,-0.52945 -4.91819,0 -4.91819,0 v -10.85481 h -54.71482 v 10.05076 H 255.177 Z"
-   id="path5282-4"
-   inkscape:connector-curvature="0"
-   sodipodi:nodetypes="ccccccccccccc" /><text
+   transform="scale(1,-1)" /><text
    xml:space="preserve"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.00000035px;line-height:1.25;font-family:'Californian FB';-inkscape-font-specification:'Californian FB';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.00000035px;line-height:1.25;font-family:'Californian FB';-inkscape-font-specification:'Californian FB';letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
    x="34.544117"
    y="-349.96094"
    id="text8111"
@@ -479,16 +439,17 @@
      id="tspan8109"
      x="34.544117"
      y="-349.96094"
-     style="fill:#ffffff;stroke-width:0.75px;font-size:14.00000035px;">Atospheric</tspan><tspan
+     style="fill:#0000ff;stroke-width:0.75px;font-size:14.00000035px;">Atospheric</tspan><tspan
      sodipodi:role="line"
      x="34.544117"
      y="-329.96094"
-     style="fill:#ffffff;stroke-width:0.75px;font-size:14.00000035px;"
+     style="fill:#0000ff;stroke-width:0.75px;font-size:14.00000035px;"
      id="tspan8113">deposition</tspan></text>
+
 
 <text
    xml:space="preserve"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Californian FB';-inkscape-font-specification:'Californian FB';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Californian FB';-inkscape-font-specification:'Californian FB';letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
    x="32.929905"
    y="-263.43921"
    id="text8117"
@@ -497,21 +458,22 @@
      id="tspan8115"
      x="32.929905"
      y="-263.43921"
-     style="font-size:12px;fill:#ffffff;stroke-width:0.75px">     Animal</tspan><tspan
+     style="font-size:12px;fill:#0000ff;stroke-width:0.75px;">     Animal</tspan><tspan
      sodipodi:role="line"
      x="32.929905"
      y="-248.43921"
-     style="font-size:12px;fill:#ffffff;stroke-width:0.75px"
+     style="font-size:12px;fill:#0000ff;stroke-width:0.75px;"
      id="tspan8119">    manures</tspan><tspan
      sodipodi:role="line"
      x="32.929905"
      y="-233.43921"
-     style="font-size:12px;fill:#ffffff;stroke-width:0.75px"
+     style="font-size:12px;fill:#0000ff;stroke-width:0.75px;"
      id="tspan8121">and biosolids</tspan></text>
+
 
 <text
    xml:space="preserve"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Californian FB';-inkscape-font-specification:'Californian FB';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Californian FB';-inkscape-font-specification:'Californian FB';letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
    x="152.38152"
    y="-267.12448"
    id="text8125"
@@ -520,12 +482,13 @@
      id="tspan8123"
      x="152.38152"
      y="-267.12448"
-     style="fill:#ffffff;stroke-width:0.75px">  Plant</tspan><tspan
+     style="fill:#0000ff;stroke-width:0.75px;">  Plant</tspan><tspan
      sodipodi:role="line"
      x="152.38152"
      y="-247.12448"
-     style="fill:#ffffff;stroke-width:0.75px"
+     style="fill:#0000ff;stroke-width:0.75px;"
      id="tspan8127">residues</tspan></text>
+
 
 <text
    xml:space="preserve"
@@ -545,23 +508,25 @@
      style="font-size:14px;fill:#ffffff;stroke-width:0.75px"
      id="tspan8133">sulfur</tspan></text>
 
+
 <text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:1.25;font-family:'Californian FB';-inkscape-font-specification:'Californian FB';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-   x="144.43541"
-   y="-158.1333"
+   x="157.93541"
+   y="-167.1333"
    id="text8137"
    transform="scale(1,-1)"><tspan
      sodipodi:role="line"
      id="tspan8135"
-     x="144.43541"
-     y="-158.1333"
+     x="157.93541"
+     y="-167.1333"
      style="font-size:14px;fill:#ffffff;stroke-width:0.75px">adsorbed or</tspan><tspan
      sodipodi:role="line"
-     x="144.43541"
-     y="-140.6333"
+     x="157.93541"
+     y="-149.6333"
      style="font-size:14px;fill:#ffffff;stroke-width:0.75px"
      id="tspan8139">mineral sulfur</tspan></text>
+
 
 <text
    xml:space="preserve"
@@ -581,9 +546,10 @@
      style="stroke-width:0.75px;fill:#ffffff;"
      id="tspan8145">(SO  )</tspan></text>
 
+
 <text
    xml:space="preserve"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.08497334px;line-height:1.25;font-family:'Californian FB';-inkscape-font-specification:'Californian FB';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.08497334px;line-height:1.25;font-family:'Californian FB';-inkscape-font-specification:'Californian FB';letter-spacing:0px;word-spacing:0px;fill:#d45500;fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
    x="266.30185"
    y="-166.41847"
    id="text8149"
@@ -592,12 +558,13 @@
      id="tspan8147"
      x="266.30185"
      y="-166.41847"
-     style="fill:#ffffff;stroke-width:0.75px">  Plant</tspan><tspan
+     style="fill:#d45500;stroke-width:0.75px;">  Plant</tspan><tspan
      sodipodi:role="line"
      x="266.30185"
      y="-148.81226"
-     style="fill:#ffffff;stroke-width:0.75px"
+     style="fill:#d45500;stroke-width:0.75px;"
      id="tspan8151">uptake</tspan></text>
+
 
 <text
    xml:space="preserve"
@@ -617,6 +584,7 @@
      style="font-size:12px;fill:#ffffff;stroke-width:0.75px"
      id="tspan8157">  sulfur Sº</tspan></text>
 
+
 <text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:1.25;font-family:'Californian FB';-inkscape-font-specification:'Californian FB';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -635,27 +603,29 @@
      style="font-size:14px;fill:#ffffff;stroke-width:0.75px"
      id="tspan8163">sulfur H S, HS </tspan></text>
 
-<text
-   xml:space="preserve"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.51418495px;line-height:1.25;font-family:'Californian FB';-inkscape-font-specification:'Californian FB';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-   x="518.18292"
-   y="-40.139107"
-   id="text8167"
-   transform="scale(1.0005695,-0.99943079)"><tspan
-     sodipodi:role="line"
-     id="tspan8165"
-     x="518.18292"
-     y="-40.139107"
-     style="fill:#ffffff;stroke-width:0.75px">Mineral</tspan><tspan
-     sodipodi:role="line"
-     x="518.18292"
-     y="-23.246376"
-     style="fill:#ffffff;stroke-width:0.75px"
-     id="tspan8169">formation</tspan></text>
 
 <text
    xml:space="preserve"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Californian FB';-inkscape-font-specification:'Californian FB';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.51418495px;line-height:1.25;font-family:'Californian FB';-inkscape-font-specification:'Californian FB';letter-spacing:0px;word-spacing:0px;fill:#d45500;fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+   x="510.11646"
+   y="-38.523975"
+   id="text8167"
+   transform="scale(1.0005695,-0.99943081)"><tspan
+     sodipodi:role="line"
+     id="tspan8165"
+     x="510.11646"
+     y="-38.523975"
+     style="fill:#d45500;stroke-width:0.75px">  Mineral</tspan><tspan
+     sodipodi:role="line"
+     x="510.11646"
+     y="-21.631245"
+     style="fill:#d45500;stroke-width:0.75px"
+     id="tspan8169">formation</tspan></text>
+
+
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Californian FB';-inkscape-font-specification:'Californian FB';letter-spacing:0px;word-spacing:0px;fill:#d45500;fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
    x="419.69489"
    y="-14.205047"
    id="text8173"
@@ -664,11 +634,12 @@
      id="tspan8171"
      x="419.69489"
      y="-14.205047"
-     style="fill:#ffffff;stroke-width:0.75px">Leaching</tspan></text>
+     style="fill:#d45500;stroke-width:0.75px;">Leaching</tspan></text>
+
 
 <text
    xml:space="preserve"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.0000003px;line-height:1.25;font-family:'Californian FB';-inkscape-font-specification:'Californian FB';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.0000003px;line-height:1.25;font-family:'Californian FB';-inkscape-font-specification:'Californian FB';letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
    x="299.82599"
    y="-14.850707"
    id="text8177"
@@ -677,11 +648,12 @@
      id="tspan8175"
      x="299.82599"
      y="-14.850707"
-     style="fill:#ffffff;stroke-width:0.75px;font-size:12.0000003px;">Weathering</tspan></text>
+     style="fill:#0000ff;stroke-width:0.75px;font-size:12.0000003px;">Weathering</tspan></text>
+
 
 <text
    xml:space="preserve"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:1.25;font-family:'Californian FB';-inkscape-font-specification:'Californian FB';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:1.25;font-family:'Californian FB';-inkscape-font-specification:'Californian FB';letter-spacing:0px;word-spacing:0px;fill:#d45500;fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
    x="485.55466"
    y="-193.05963"
    id="text8181"
@@ -690,16 +662,17 @@
      id="tspan8179"
      x="485.55466"
      y="-193.05963"
-     style="font-size:11px;fill:#ffffff;stroke-width:0.75px">Runoff and</tspan><tspan
+     style="font-size:11px;fill:#d45500;stroke-width:0.75px;">Runoff and</tspan><tspan
      sodipodi:role="line"
      x="485.55466"
      y="-179.30963"
-     style="font-size:11px;fill:#ffffff;stroke-width:0.75px"
+     style="font-size:11px;fill:#d45500;stroke-width:0.75px;"
      id="tspan8183">    erosion</tspan></text>
+
 
 <text
    xml:space="preserve"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Californian FB';-inkscape-font-specification:'Californian FB';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Californian FB';-inkscape-font-specification:'Californian FB';letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
    x="424.00259"
    y="-276.46368"
    id="text8187"
@@ -708,29 +681,31 @@
      id="tspan8185"
      x="424.00259"
      y="-276.46368"
-     style="fill:#ffffff;stroke-width:0.75px">  Mineral</tspan><tspan
+     style="fill:#0000ff;stroke-width:0.75px;">  Mineral</tspan><tspan
      sodipodi:role="line"
      x="424.00259"
      y="-256.46368"
-     style="fill:#ffffff;stroke-width:0.75px"
+     style="fill:#0000ff;stroke-width:0.75px;"
      id="tspan8189">fertilizers</tspan></text>
+
 
 <text
    xml:space="preserve"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Californian FB';-inkscape-font-specification:'Californian FB';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-   x="417.07028"
-   y="-334.99652"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Californian FB';-inkscape-font-specification:'Californian FB';letter-spacing:0px;word-spacing:0px;fill:#d45500;fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+   x="438.70071"
+   y="-340.16199"
    id="text8193"
    transform="scale(1,-1)"><tspan
      sodipodi:role="line"
      id="tspan8191"
-     x="417.07028"
-     y="-334.99652"
-     style="fill:#ffffff;stroke-width:0.75px">Volatilization</tspan></text>
+     x="438.70071"
+     y="-340.16199"
+     style="fill:#d45500;stroke-width:0.75px">Volatilization</tspan></text>
+
 
 <text
    xml:space="preserve"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:1.25;font-family:'Californian FB';-inkscape-font-specification:'Californian FB';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.74999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:1.25;font-family:'Californian FB';-inkscape-font-specification:'Californian FB';letter-spacing:0px;word-spacing:0px;fill:#d45500;fill-opacity:1;stroke:none;stroke-width:0.74999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
    x="291.24725"
    y="-326.8092"
    id="text8197"
@@ -739,12 +714,13 @@
      id="tspan8195"
      x="291.24725"
      y="-326.8092"
-     style="font-size:11px;fill:#ffffff;stroke-width:0.74999994px">  Crop</tspan><tspan
+     style="font-size:11px;fill:#d45500;stroke-width:0.74999994px;">  Crop</tspan><tspan
      sodipodi:role="line"
      x="291.24725"
      y="-313.0592"
-     style="font-size:11px;fill:#ffffff;stroke-width:0.74999994px"
+     style="font-size:11px;fill:#d45500;stroke-width:0.74999994px;"
      id="tspan8199">harvest</tspan></text>
+
 
 <text
    xml:space="preserve"
@@ -759,9 +735,10 @@
      y="-406.99323"
      style="font-size:13px;fill:#ffffff;stroke-width:0.75px">Component</tspan></text>
 
+
 <text
    xml:space="preserve"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:1.25;font-family:'Californian FB';-inkscape-font-specification:'Californian FB';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:1.25;font-family:'Californian FB';-inkscape-font-specification:'Californian FB';letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
    x="411.33899"
    y="-404.73334"
    id="text8207"
@@ -770,16 +747,12 @@
      id="tspan8205"
      x="411.33899"
      y="-404.73334"
-     style="font-size:14px;fill:#ffffff;stroke-width:0.75px">Imput to soil</tspan></text>
+     style="font-size:14px;fill:#0000ff;stroke-width:0.75px;">Imput to soil</tspan></text>
 
-<path
-   style="fill:#e05e00;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.18425197;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
-   d="m 497.64222,414.68922 h 7.43967 v 5.09846 h 71.64175 v -4.7208 h 7.16407 c 0,0 1.35432,-9.94824 0,-10.19693 -1.35433,-0.24869 -6.61306,0 -6.61306,0 v -5.09847 h -73.57048 v 4.7208 h -6.06188 z"
-   id="path5282-6-2"
-   inkscape:connector-curvature="0"
-   sodipodi:nodetypes="ccccccccccccc" /><text
+
+<text
    xml:space="preserve"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13px;line-height:1.25;font-family:'Californian FB';-inkscape-font-specification:'Californian FB';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13px;line-height:1.25;font-family:'Californian FB';-inkscape-font-specification:'Californian FB';letter-spacing:0px;word-spacing:0px;fill:#d45500;fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
    x="503.20657"
    y="-404.9527"
    id="text8226"
@@ -788,7 +761,8 @@
      id="tspan8224"
      x="503.20657"
      y="-404.9527"
-     style="font-size:13px;fill:#ffffff;stroke-width:0.75px">Loss from soil</tspan></text>
+     style="font-size:13px;fill:#d45500;stroke-width:0.75px;">Loss from soil</tspan></text>
+
 
 <image
    width="60.880386"
@@ -833,13 +807,15 @@
      style="font-size:13px;fill:#ffffff;stroke-width:0.75px"
      id="tspan8268">    sulfur</tspan></text>
 
+
 <path
-   style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:1.31811027;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
-   d="M 71.155172,220.97881 V 116.11221"
+   style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:1.31811023;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+   d="m 71.155172,230.11017 0,-113.99796"
    id="path1463"
-   inkscape:connector-curvature="0" /><path
+   inkscape:connector-curvature="0"
+   sodipodi:nodetypes="cc" /><path
    style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:1.31811023;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker11036)"
-   d="M 27.750174,344.12684 C 10.500235,346.80063 9.530993,161.67873 9.8061892,140.79855 10.89648,58.074005 52.412015,5.3353325 257.30049,48.103472"
+   d="M 31.511796,348.4045 C -7.9328832,347.86159 8.4054752,161.67873 8.6812025,140.79855 9.7735984,58.074005 51.369253,5.3353325 256.65314,48.103472"
    id="path1993"
    inkscape:connector-curvature="0"
    sodipodi:nodetypes="csc" /><path
@@ -873,22 +849,22 @@
    inkscape:connector-curvature="0"
    sodipodi:nodetypes="cc" /><path
    style="fill:#d45500;fill-rule:evenodd;stroke:#d45500;stroke-width:1.31811023;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2593-2-7-9-5)"
-   d="M 333.9762,63.518062 412.97793,30.796005"
+   d="M 329.18224,61.920075 440.82857,25.773759"
    id="path2589-5-0-6-2"
    inkscape:connector-curvature="0"
    sodipodi:nodetypes="cc" /><path
    style="fill:#d45500;fill-rule:evenodd;stroke:#d45500;stroke-width:1.31811023;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2593-2-7-9-5-7)"
-   d="m 283.43084,110.56152 -0.28074,22.59777"
+   d="m 283.43084,111.23663 -0.28074,32.92822"
    id="path2589-5-0-6-2-1"
    inkscape:connector-curvature="0"
    sodipodi:nodetypes="cc" /><path
    style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:1.31811023;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2593-2-7-2)"
-   d="M 427.91799,246.82248 311.15728,104.48234"
+   d="M 444.0601,252.95648 313.44012,107.45003"
    id="path2589-5-0-3"
    inkscape:connector-curvature="0"
    sodipodi:nodetypes="cc" /><path
    style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:1.31811023;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2593-2-7-2-1)"
-   d="m 428.67797,246.69708 -2.84704,-56.22051"
+   d="M 444.1744,252.50824 436.80756,188.3781"
    id="path2589-5-0-3-0"
    inkscape:connector-curvature="0"
    sodipodi:nodetypes="cc" /><path
@@ -898,7 +874,7 @@
    inkscape:connector-curvature="0"
    sodipodi:nodetypes="cc" /><path
    style="fill:none;fill-rule:evenodd;stroke:#d45500;stroke-width:1.31811023;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker8425)"
-   d="M 520.25904,340.14302 C 564.90227,266.5875 581.75271,202.56014 533.27122,132.63294"
+   d="m 496.06095,336.03391 c 74.17978,-31.09673 91.86917,-124.59375 37.21027,-203.40097"
    id="path8421"
    inkscape:connector-curvature="0"
    sodipodi:nodetypes="cc" /><path
@@ -908,7 +884,7 @@
    inkscape:connector-curvature="0"
    sodipodi:nodetypes="ccc" /><path
    style="fill:#d45500;fill-rule:evenodd;stroke:#d45500;stroke-width:1.31811023;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2593-2-7-9-5-7-7)"
-   d="M 522.09204,79.452127 536.7247,54.259719"
+   d="M 513.18421,77.759582 537.66356,49.01591"
    id="path2589-5-0-6-2-1-6"
    inkscape:connector-curvature="0"
    sodipodi:nodetypes="cc" /><path
@@ -933,6 +909,7 @@
      x="497.64703"
      y="-92.77713"
      style="stroke-width:0.75px;fill:#ffffff;">2</tspan></text>
+
 <text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.6294241px;line-height:1.25;font-family:'Californian FB';-inkscape-font-specification:'Californian FB';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.75000006px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
@@ -950,6 +927,7 @@
      y="-58.09964"
      style="stroke-width:0.75000006px;fill:#ffffff;"
      id="tspan12150">4</tspan></text>
+
 <path
    style="fill:#ffffff;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
    d="m 290.88083,71.993795 h 2.2599"
@@ -966,6 +944,7 @@
      x="357.00159"
      y="5.5605674"
      style="font-size:9px;stroke-width:0.75px">Bacterial reduction</tspan></text>
+
 <text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:1.25;font-family:'Californian FB';-inkscape-font-specification:'Californian FB';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -978,6 +957,7 @@
      x="358.59091"
      y="-4.6422944"
      style="font-size:9px;stroke-width:0.75px">Bacterial Oxidation</tspan></text>
+
 <text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:1.25;font-family:'Californian FB';-inkscape-font-specification:'Californian FB';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -990,6 +970,7 @@
      x="353.3981"
      y="74.085373"
      style="font-size:9px;stroke-width:0.75px">Oxidation</tspan></text>
+
 <text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:1.25;font-family:'Californian FB';-inkscape-font-specification:'Californian FB';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1002,6 +983,7 @@
      x="145.50806"
      y="-100.18465"
      style="font-size:9px;stroke-width:0.75px">Inmobilization</tspan></text>
+
 <text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:1.25;font-family:'Californian FB';-inkscape-font-specification:'Californian FB';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1014,6 +996,7 @@
      x="139.43086"
      y="-70.635689"
      style="font-size:9px;stroke-width:0.75px">Mineralization</tspan></text>
+
 <path
    style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.31811023;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2593-2-7-5)"
    d="M 402.04633,135.99655 328.59923,96.209387"
@@ -1031,6 +1014,7 @@
      x="239.33331"
      y="-313.52359"
      style="font-size:12.0000003px;stroke-width:0.75px;">SO</tspan></text>
+
 <text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.39353371px;line-height:1.25;font-family:'Californian FB';-inkscape-font-specification:'Californian FB';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1043,6 +1027,7 @@
      x="253.9323"
      y="-311.76349"
      style="stroke-width:0.75px">2</tspan></text>
+
 <text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:1.25;font-family:'Californian FB';-inkscape-font-specification:'Californian FB';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1055,9 +1040,20 @@
      x="260.04938"
      y="-315.41684"
      style="font-size:9px;stroke-width:0.75px">gas</tspan></text>
+
 <path
    style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.31811023;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-9-2)"
    d="m 237.25167,263.31338 -18.15729,0.005"
    id="path1463-1-1"
+   inkscape:connector-curvature="0"
+   sodipodi:nodetypes="cc" /><path
+   style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.31811023;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2593-2-7-5-2)"
+   d="M 208.91437,127.0311 236.31592,99.019637"
+   id="path2589-5-0-2-6"
+   inkscape:connector-curvature="0"
+   sodipodi:nodetypes="cc" /><path
+   style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.31811023;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2593-2-7-5-2-4)"
+   d="m 245.09669,101.86796 -27.40154,28.01146"
+   id="path2589-5-0-2-6-6"
    inkscape:connector-curvature="0"
    sodipodi:nodetypes="cc" /></g></svg>
