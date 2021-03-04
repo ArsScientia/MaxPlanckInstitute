@@ -56,9 +56,9 @@
      inkscape:window-height="1017"
      id="namedview3944"
      showgrid="false"
-     inkscape:zoom="0.35350316"
-     inkscape:cx="854.05136"
-     inkscape:cy="71.168819"
+     inkscape:zoom="0.49992896"
+     inkscape:cx="280.75971"
+     inkscape:cy="519.92093"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -489,9 +489,10 @@
 
 <path
    style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
-   d="M 114.24339,413.88465 104.1362,390.46929"
+   d="m 114.24339,413.88465 -6.12915,-13.60286"
    id="path14477"
-   inkscape:connector-curvature="0" /><text
+   inkscape:connector-curvature="0"
+   sodipodi:nodetypes="cc" /><text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Californian FB';-inkscape-font-specification:'Californian FB';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
    x="154.57098"
