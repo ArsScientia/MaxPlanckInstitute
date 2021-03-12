@@ -201,9 +201,9 @@
      inkscape:window-height="1017"
      id="namedview817"
      showgrid="false"
-     inkscape:zoom="0.51631884"
-     inkscape:cx="272.89097"
-     inkscape:cy="266.7928"
+     inkscape:zoom="0.7301851"
+     inkscape:cx="444.2745"
+     inkscape:cy="100.39244"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -6353,4 +6353,16 @@
      id="path2425-2-1-1-62-1-5-6-1"
      style="fill:#d9dafe;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.23315123"
      d="m 165.78032,351.26153 a 4.4719988,4.4124664 0 1 0 -8.94399,0 4.4719988,4.4124664 0 1 0 8.94399,0 z"
-     inkscape:connector-curvature="0" /></g></g></svg>
+     inkscape:connector-curvature="0" /></g><text
+   xml:space="preserve"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+   x="321.02258"
+   y="-12.346995"
+   id="text3437"
+   transform="scale(1,-1)"><tspan
+     sodipodi:role="line"
+     id="tspan3435"
+     x="321.02258"
+     y="-12.346995"
+     style="stroke-width:0.75px">Deep Ocean</tspan></text>
+</g></svg>
