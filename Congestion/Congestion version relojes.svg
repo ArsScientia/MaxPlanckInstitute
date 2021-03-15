@@ -452,9 +452,9 @@
      inkscape:window-height="1017"
      id="namedview817"
      showgrid="false"
-     inkscape:zoom="0.73018512"
-     inkscape:cx="629.4177"
-     inkscape:cy="157.52531"
+     inkscape:zoom="0.51631885"
+     inkscape:cx="568.18754"
+     inkscape:cy="108.03516"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -8109,14 +8109,19 @@
      id="tspan6001"> transit time</tspan></text>
 <text
    xml:space="preserve"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-   x="192.42087"
-   y="-43.088444"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+   x="374.23035"
+   y="-107.28449"
    id="text6005"
    transform="scale(1,-1)"><tspan
      sodipodi:role="line"
      id="tspan6003"
-     x="192.42087"
-     y="-43.088444"
-     style="fill:#008000;stroke-width:0.75px">Backward transit time</tspan></text>
+     x="374.23035"
+     y="-107.28449"
+     style="font-size:13px;fill:#008000;stroke-width:0.75px"> Backward </tspan><tspan
+     sodipodi:role="line"
+     x="374.23035"
+     y="-91.034492"
+     style="font-size:13px;fill:#008000;stroke-width:0.75px"
+     id="tspan6076">transit time</tspan></text>
 </g></svg>
